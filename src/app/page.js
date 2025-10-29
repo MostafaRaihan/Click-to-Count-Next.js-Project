@@ -1,4 +1,5 @@
 "use client";
+import { Analytics } from "@vercel/analytics/next"
 
 import { useState } from "react";
 import styles from "./page.module.css";
